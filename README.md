@@ -1,15 +1,12 @@
-👋 Ola, sou Victor Ebeling, tenho 18 anos, sou estudante de Analise e Desenvolvimento de Sistemas!
-Tenho muito interesse na área da programação, desejo entrar na área de Back-end e procuro saber o máximo para ter conhecimento sobre todas as áreas da progamação.
-👩‍💻 Python - C# - Js
-👩‍💻 Learning Java
+👋 Hello! I'm Victor Ebeling, a 17 year old programmer who looks to improve my abilities in the Computer Science area.
+👩‍💻 Python - C# - Js - Bootstrap - React
 
 <div>
-<a href="https://www.linkedin.com/in/victorebeling/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/victorebeling/" target="_blank" style="border-radius: 25px;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
 <div>
-<a href="https://github.com/junior-scp%22%3E
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEbeling&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorEbeling&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
